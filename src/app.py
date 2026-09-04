@@ -65,7 +65,7 @@ activities = {
         "max_participants": 18,
         "participants": []
     },
-    "Debate Club": {
+    "Mass Debate Club": {
         "description": "Build research, public speaking, and critical thinking skills",
         "schedule": "Tuesdays, 3:30 PM - 4:30 PM",
         "max_participants": 16,
